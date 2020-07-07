@@ -1,0 +1,13 @@
+# Target labels
+ libarchive-3.3.2
+# Source files and their labels
+/home/zulf/mesos/3rdparty/CMakeFiles/libarchive-3.3.2
+/home/zulf/mesos/3rdparty/CMakeFiles/libarchive-3.3.2.rule
+/home/zulf/mesos/3rdparty/CMakeFiles/libarchive-3.3.2-complete.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-install.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-mkdir.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-download.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-update.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-patch.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-configure.rule
+/home/zulf/mesos/3rdparty/libarchive-3.3.2/src/libarchive-3.3.2-stamp/libarchive-3.3.2-build.rule

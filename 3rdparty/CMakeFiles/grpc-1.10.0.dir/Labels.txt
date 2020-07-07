@@ -1,0 +1,13 @@
+# Target labels
+ grpc-1.10.0
+# Source files and their labels
+/home/zulf/mesos/3rdparty/CMakeFiles/grpc-1.10.0
+/home/zulf/mesos/3rdparty/CMakeFiles/grpc-1.10.0.rule
+/home/zulf/mesos/3rdparty/CMakeFiles/grpc-1.10.0-complete.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-install.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-mkdir.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-download.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-update.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-patch.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-configure.rule
+/home/zulf/mesos/3rdparty/grpc-1.10.0/src/grpc-1.10.0-stamp/grpc-1.10.0-build.rule

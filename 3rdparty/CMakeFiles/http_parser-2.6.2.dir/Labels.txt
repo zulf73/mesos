@@ -1,0 +1,13 @@
+# Target labels
+ http_parser-2.6.2
+# Source files and their labels
+/home/zulf/mesos/3rdparty/CMakeFiles/http_parser-2.6.2
+/home/zulf/mesos/3rdparty/CMakeFiles/http_parser-2.6.2.rule
+/home/zulf/mesos/3rdparty/CMakeFiles/http_parser-2.6.2-complete.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-install.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-mkdir.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-download.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-update.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-patch.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-configure.rule
+/home/zulf/mesos/3rdparty/http_parser-2.6.2/src/http_parser-2.6.2-stamp/http_parser-2.6.2-build.rule
